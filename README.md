@@ -7,10 +7,6 @@
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 
----
-
-## 📌 Repository Link
-[**Click here to view the full project**](https://github.com/lambertonunez/artemis-financial-secure-software)
 
 ---
 
