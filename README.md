@@ -5,8 +5,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![Security](https://img.shields.io/badge/Security-AES--256--GCM%20%2B%20HMAC--SHA256-blue)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
-![GitHub Repo Size](https://img.shields.io/github/repo-size/lambertonunez/artemis-financial-secure-software)
-![Last Commit](https://img.shields.io/github/last-commit/lambertonunez/artemis-financial-secure-software)
+
 
 ---
 
